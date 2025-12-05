@@ -1,0 +1,47 @@
+﻿Created By Exterro® FTK® Imager 4.7.3.81 
+
+Case Information: 
+Acquired using: ADI4.7.3.81
+Case Number:  
+Evidence Number:  
+Unique Description: 
+Examiner:  
+Notes:  
+
+--------------------------------------------------------------
+
+Information for Z:\rentaladmin-pc:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Physical
+[Drive Geometry]
+ Cylinders: 4,674
+ Tracks per Cylinder: 255
+ Sectors per Track: 63
+ Bytes per Sector: 512
+ Sector Count: 75,097,984
+[Physical Drive Information]
+ Drive Model: VBOX HARDDISK
+ Drive Serial Number: VB934800fe-6c610507
+ Drive Interface Type: IDE
+ Removable drive: False
+ Source data size: 36668 MB
+ Sector count:    75097984
+[Computed Hashes]
+ MD5 checksum:    e3d69a8361b57879203646f0a9251861
+ SHA1 checksum:   edcb0b488d2291a9c6aeb139db2ccbc13d31c950
+
+Image Information:
+ Acquisition started:   Wed Apr 30 16:15:18 2025
+ Acquisition finished:  Wed Apr 30 16:25:25 2025
+ Segment list:
+  Z:\rentaladmin-pc.E01
+ COMPUTED HASH :  e3d69a8361b57879203646f0a9251861
+ COMPUTED HASH :  edcb0b488d2291a9c6aeb139db2ccbc13d31c950
+
+Image Verification Results:
+ Verification started:  Wed Apr 30 16:25:25 2025
+ Verification finished: Wed Apr 30 17:18:25 2025
+ MD5 checksum:    e3d69a8361b57879203646f0a9251861 : verified
+ SHA1 checksum:   edcb0b488d2291a9c6aeb139db2ccbc13d31c950 : verified
